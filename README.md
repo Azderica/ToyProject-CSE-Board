@@ -12,7 +12,7 @@
 
 <br/>
 
-## What is project contents?
+## What are project contents?
 
 - CSE study file
   - https://drive.google.com/drive/my-drive
