@@ -1,12 +1,16 @@
 # ToyProject-CSE-Board
 대학교 시절 때 공부했던 내용을 다른 사람들이 쉽게 볼 수 있는 게시판입니다. 
 
+<br/>
+
 ## What is this Project?
 
 대학교 시절 때 공부했던 수많은 자료들을 정리해서 올리는 사이트를 계획하고 있습니다.
 
 그러나, 주목적은 이 프로젝트에서 기존에 학생 시절에는 몰랐던 기술을 적용하는 페이지를 구상하고 있습니다.
 
+
+<br/>
 
 ## What is project contents?
 
@@ -18,6 +22,7 @@
 
 
 
+<br/>
 
 ## Tech Stack in this Project
 
