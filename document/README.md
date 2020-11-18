@@ -4,13 +4,4 @@
 
 ## 프로젝트 구성
 
-- [x] 프로세스 정의
-- [ ] ERD
-- [ ] AWS 환경 구성
-
-
-## 웹 개발
-- [ ] 스프링 환경 구성
-
-
-## 그 외
+[ISSUE](https://github.com/Azderica/ToyProject-CSE-Board/issues/1)
