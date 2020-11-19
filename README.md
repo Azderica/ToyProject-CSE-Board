@@ -33,9 +33,9 @@
 - mysql / redis
   - DB 구성
   - cache 필요시 redis 사용 예정.
-- AWS EC2 | Azure
+- AWS EC2 | Azure | Google Cloud
   - 서버.
-  - 혹은 Azure
+  - 혹은 Azure, google cloud
 - jenkins 
   - 자동화 툴을 통해서 git에 올릴 때마다 업데이트 예정입니다.
 
