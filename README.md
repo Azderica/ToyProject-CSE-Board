@@ -46,5 +46,7 @@
   - ...
 - Grafana/Prometheus
   - 모니터링 툴
+- Elastic Search, Kibana
+  - 로그 수집 및 
   
 
